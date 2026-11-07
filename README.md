@@ -2,6 +2,8 @@
 Colecție de lucrări realizate la seminarele și cursurile din facultate, în domeniul administrației și al studiilor europene.
 
 
+
+
 Managementul proiectelor: cerere de finanțare
 
 Project Cycle Management: anexele unei cereri de finanțare (analiza problemei, a obiectivelor, a stakeholderilor, a strategiilor și Logical Framework)
