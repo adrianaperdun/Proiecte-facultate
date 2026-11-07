@@ -1,5 +1,5 @@
 # Proiecte facultate
-Colecție de lucrări realizate la seminarele și cursurile din facultate, în domeniul administrației și al studiilor europene.
+Colecție de lucrări realizate la seminarele și cursurile din facultate, în domeniul administrației și al studiilor europene, care cuprinde:
 
 
 
